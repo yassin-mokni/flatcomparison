@@ -2,6 +2,8 @@
 
 A Chrome extension that helps you compare rental flats on ImmoScout24.de side-by-side.
 
+<img src="screenshot.png" alt="Screenshot" width="600">
+
 ## Features
 
 - Save any listing with one click

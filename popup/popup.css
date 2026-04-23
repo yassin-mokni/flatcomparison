@@ -215,7 +215,7 @@ tbody tr:hover td:not(.label) {
   border-color: #ff4444;
 }
 
-.brezzel-btn {
+.pretzel-btn {
   display: block;
   padding: 8px 6px;
   background: rgba(255,255,255,0.15);
@@ -229,7 +229,7 @@ tbody tr:hover td:not(.label) {
   border: 1px solid rgba(255,255,255,0.2);
 }
 
-.brezzel-btn:hover {
+.pretzel-btn:hover {
   background: rgba(255,255,255,0.25);
   border-color: rgba(255,255,255,0.4);
 }

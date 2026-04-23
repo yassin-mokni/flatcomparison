@@ -17,7 +17,7 @@ async function loadFlats() {
   table.innerHTML = `
     <thead>
       <tr>
-        <th><a href="https://buymeacoffee.com/yassinbuilds" target="_blank" class="brezzel-btn">🥨 Buy me a Brezzel</a></th>
+        <th><a href="https://buymeacoffee.com/yassinbuilds" target="_blank" class="pretzel-btn">🥨 Buy me a Pretzel</a></th>
         ${flats.map(flat => `
           <th>
             <div class="flat-header">

@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Compare rental flats on ImmoScout24.de side-by-side. Save listings and view price, size, rooms, and location, etc in one table.",
 
-  "permissions": ["activeTab", "storage"],
+  "permissions": ["storage"],
 
   "host_permissions": ["https://www.immobilienscout24.de/*"],
 
